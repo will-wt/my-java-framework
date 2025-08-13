@@ -21,6 +21,7 @@
 
     <modules>
         <module>nova-rpc</module>
+        <module>tiny-rpc</module>
     </modules>
 
 </project>

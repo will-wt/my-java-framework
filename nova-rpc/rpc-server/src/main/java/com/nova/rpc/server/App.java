@@ -1,4 +1,4 @@
-package com.nova;
+package com.nova.rpc.server;
 
 /**
  * Hello world!
