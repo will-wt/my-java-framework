@@ -13,7 +13,7 @@ import java.io.Serializable;
 public class Invocation implements Serializable {
     private static final long serialVersionUID = 7504756868244892052L;
 
-    // 完整类名，如：com.nova.tinyrpc.api.HelloService
+    // 完整类名，如：com.nova.tinyrpc.sample.HelloService
     private String className;
     // 方法名
     private String methodName;

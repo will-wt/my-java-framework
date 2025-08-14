@@ -1,4 +1,4 @@
-package com.nova.tinyrpc.api;
+package com.nova.tinyrpc.sample;
 
 /**
  * @author willwt
@@ -7,6 +7,6 @@ package com.nova.tinyrpc.api;
 public interface HelloService {
 
 
-    String say(String message);
+    String say(String name, String message);
 
 }
